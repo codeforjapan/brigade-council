@@ -1,4 +1,6 @@
 # Brigade評議会
+| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+
 ## 活動の目的
 Brigade評議会はボトムアップ型（地域から日本全体へ）のシビックテック実現のために、CfJの事業運営について適宜確認し、Brigadeの立場から施策を提言するために作られました。
 Code for Japanとは独立した組織として運営されています。
